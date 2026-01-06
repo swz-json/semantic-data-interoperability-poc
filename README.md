@@ -47,6 +47,7 @@ ex:Paris a schema:City ;
     ex:pollutionIndex 65 ;
     schema:addressCountry "France" ;
     schema:name "Paris" .
+```
 
 ## Project Structure
 
