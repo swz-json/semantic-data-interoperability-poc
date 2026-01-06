@@ -1,0 +1,34 @@
+@prefix ex: <http://example.org/data/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Beijing a schema:City ;
+    ex:pollutionIndex 85 ;
+    schema:addressCountry "China" ;
+    schema:name "Beijing"^^xsd:string ;
+    schema:population 21540000 .
+
+ex:London a schema:City ;
+    ex:pollutionIndex 58 ;
+    schema:addressCountry "UK" ;
+    schema:name "London"^^xsd:string ;
+    schema:population 8982000 .
+
+ex:New_York a schema:City ;
+    ex:pollutionIndex 52 ;
+    schema:addressCountry "USA" ;
+    schema:name "New York"^^xsd:string ;
+    schema:population 8419000 .
+
+ex:Paris a schema:City ;
+    ex:pollutionIndex 65 ;
+    schema:addressCountry "France" ;
+    schema:name "Paris"^^xsd:string ;
+    schema:population 2161000 .
+
+ex:Tokyo a schema:City ;
+    ex:pollutionIndex 42 ;
+    schema:addressCountry "Japan" ;
+    schema:name "Tokyo"^^xsd:string ;
+    schema:population 13960000 .
+
