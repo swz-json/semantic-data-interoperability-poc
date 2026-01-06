@@ -40,7 +40,7 @@ You can verify the semantic structure without installing anything:
 3.  Paste the text into the "RDF Data" box.
 4.  Select **"Turtle"** as the format and click **"Visualize"**.
 
-## 📝 Example Output
+##  Example Output
 
 ```turtle
 ex:Paris a schema:City ;
