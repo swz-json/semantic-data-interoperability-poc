@@ -60,3 +60,5 @@ semantic-data-interoperability-poc/
 ├── main.py                   # The ETL script (Extract, Transform, Load to RDF)
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Documentation
+```
+
